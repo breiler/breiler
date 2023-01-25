@@ -6,4 +6,4 @@ A couple of years ago I got interested in building my first CNC machine and has 
 
 
 If you appreciate the work I am doing consider sponsoring me!  
-![GitHub Sponsor](https://img.shields.io/github/sponsors/breiler?label=Sponsors&logo=GitHub)
+[![GitHub Sponsor](https://img.shields.io/github/sponsors/breiler?label=Sponsors&logo=GitHub)](https://github.com/sponsors/breiler/)
