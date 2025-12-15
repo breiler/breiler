@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software developer consultant at [Consid](https://consid.se/en/) with project experience in government, telecom and financing. 
+I am a software developer at [Skippo]([https://consid.se/en/](https://www.skippo.se/)). 
 
 A couple of years ago I got interested in building my first CNC machine and has since then kept tinkering and are now an active contributor to [Universal G-code Sender](https://github.com/winder/Universal-G-Code-Sender)
 
